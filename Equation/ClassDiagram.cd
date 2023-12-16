@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdditionOperation">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>AdditionOperation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryOperation">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBgAAAAACAQAEQAIAAAGAAAECAAACAIAAABDgA=</HashCode>
+      <FileName>BinaryOperation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DivisionOperation">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DivisionOperation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Equation">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAQABGkAAEQQAAAAEAAAFACABAAAAAQABAI=</HashCode>
+      <FileName>Equation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MixedOperationWithBracket">
+    <Position X="10.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MixedOperationWithBracket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MixtureOperation">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAIAAAAQAAAAIAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>MixtureOperation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MutiplicationOperation">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MutiplicationOperation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubtractOperation">
+    <Position X="5.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubtractOperation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
